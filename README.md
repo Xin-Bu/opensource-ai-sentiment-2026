@@ -18,7 +18,7 @@ Issues were collected via the GitHub REST Search API from:
 - Aggregation by year and model family
 
 ## Files
-- `Github_sentiment_datasets.ipynb` — data collection, tagging, and sentiment analysis
+- `Github_sentiment_datasets.ipynb` — data collection and tagging 
 
 ## Requirements
 See `requirements.txt`
