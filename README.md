@@ -19,7 +19,6 @@ Issues were collected via the GitHub REST Search API from:
 
 ## Files
 - `Github_sentiment_datasets.ipynb` — data collection, tagging, and sentiment analysis
-- `github_issues_tagged.csv` — final tagged dataset
 
 ## Requirements
 See `requirements.txt`
