@@ -1,8 +1,8 @@
-# Developer Sentiment on Open-Source AI Models (2023–2026)
+# Developer Sentiment on Open-Source AI Models (2023â€“2026)
 
 A quantitative corpus study analyzing GitHub issue discourse across five major 
-open-source AI/ML repositories to trace sentiment trends toward six open-weight 
-model families (Llama, Qwen, Gemma, DeepSeek, Kimi, GLM) between 2023 and 2026.
+open-source AI/ML repositories to trace sentiment trends toward seven open-weight 
+model families (Llama, Qwen, Gemma, DeepSeek, Phi, Kimi, GLM) between 2023 and 2026.
 
 ## Data Collection
 Issues were collected via the GitHub REST Search API from:
@@ -18,8 +18,8 @@ Issues were collected via the GitHub REST Search API from:
 - Aggregation by year and model family
 
 ## Files
-- `Github_sentiment_datasets.ipynb` — data collection, tagging, and sentiment analysis
-- `github_issues_tagged.csv` — final tagged dataset
+- `Github_sentiment_datasets.ipynb` â€” data collection, tagging, and sentiment analysis
+- `github_issues_tagged.csv` â€” final tagged dataset
 
 ## Requirements
 See `requirements.txt`
