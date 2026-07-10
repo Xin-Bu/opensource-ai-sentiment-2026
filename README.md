@@ -1,9 +1,10 @@
-# Developer Sentiment on Open-Source AI Models (2023–2026)
+# Developer Sentiment Trends on Open-Source AI Models
 
 A quantitative corpus study analyzing GitHub issue discourse across five major 
 open-source AI/ML repositories to trace sentiment trends toward seven open-weight 
-model families (Llama, Qwen, Gemma, DeepSeek, Phi, Kimi, GLM) between 2023 and 2026.
+model families：Llama, Qwen, Gemma, DeepSeek, Phi, Kimi, and GLM， from 2023 to 2026.
 
+This project was developed for an individual paper proposal for the 2027 American Association for Applied Linguistics (AAAL) Conference.
 ## Data Collection
 Issues were collected via the GitHub REST Search API from:
 - pytorch/pytorch
